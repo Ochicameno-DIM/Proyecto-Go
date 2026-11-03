@@ -1,0 +1,12 @@
+# Tablero 5x5, se escribe de ARRIBA hacia ABAJO (como se imprime).
+# X = negro, O = blanco, . = vacío
+# La piedra blanca en C3 tiene una sola libertad: D3.
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . X O . . . .
+. . . O X . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
